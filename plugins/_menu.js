@@ -109,11 +109,7 @@ bot(
     const contextInfo = {
       forwardingScore: 1,
       isForwarded: true,
-      forwardedNewsletterMessageInfo: {
-        newsletterJid: '120363298577467093@newsletter',
-        newsletterName: BOT_NAME,
-        serverMessageId: -1
-      }
+      
     };
     let menu = "Command List\n";
 
